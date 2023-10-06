@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Clément Liénard</h1>
+<h1 align="center">Hi 👋, I'm Clément (a.k.a. Z4RM)</h1>
 <h3 align="center">An Epitech student/apprentice developer from France</h3>
 
 - 🔭 I’m currently working on [Mango](https://github.com/Clement-Lnrd/Mango)
