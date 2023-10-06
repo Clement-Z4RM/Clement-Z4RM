@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mango](https://github.com/Clement-Z4RM/Mango)
 
-- 🌱 I’m currently learning **C, JavaScript/TypeScript**
+- 🌱 I’m currently learning **Web development (React with TypeScript, PHP,...)**
 
 - 👨‍💻 All of my projects are available at https://github.com/Clement-Z4RM?tab=repositories
 
