@@ -104,7 +104,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
 </div>
 
-###
+<br/>
+<br/>
 
 <div align="left">
   <a href="https://linkedin.com/in/cl%C3%A9ment-li%C3%A9nard-246905249" target="_blank">
