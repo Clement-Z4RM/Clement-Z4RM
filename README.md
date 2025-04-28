@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Clément and I'm an Epitech student and appretice developper, from France</h2>
+<h2 align="left">Hi 👋! My name is Clément and I'm an Epitech student and apprentice developper, from France</h2>
 
 ###
 
