@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning AdonisJS<br>💼 In internship as a fullstack developer</p>
+<p align="left">✨ Creating bugs since 2022</p>
 
 ###
 
